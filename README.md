@@ -143,10 +143,10 @@ Our live Trello Board can be found [here](https://trello.com/b/GTJg7qxU/dentist-
 | Sprint Number | Week | Focus | Deadlines|
 |---|---|---|---|
 | **1** | 17/10/2022 to 23/10/2022 | Documentation, wireframes, ERD and prepare the 3 framework for 2 of the 3 repos we would need to use (documntation and front-end framework), research on how to structure calender UI| |
-| **2** | 24/10/2022 to 30/10/2022 | x | |
-| **3** | 31/10/2022 to 06/11/2022 | y | Documentation due to client |
-| **4** | 07/10/2022 to 13/11/2022 | z | |
-| **5** | 14/10/2022 to 20/11/2022 | z | |
+| **2** | 24/10/2022 to 30/10/2022 | Get Rails back-end up and running, ensure documentation is as complete as it can be, dataflow and architecture diagram completed. | |
+| **3** | 31/10/2022 to 06/11/2022 | Start working on presentation. Ensure documentation is complete and ready to go | Documentation due to client |
+| **4** | 07/10/2022 to 13/11/2022 | Work on the Front-end needs to begin if it hasn't already, this will be the focus of the week, styling. | |
+| **5** | 14/10/2022 to 20/11/2022 | TBC - addition of any sprinkles if all key tasks, functions and features have been implemented. | |
 | **6** | 21/10/2022 to 23/11/2022 | z | Project due to be completed in full by the 23rd of November |
 
 ### **Discord**
@@ -162,3 +162,6 @@ I (Hardeep) decided to make a dent in the documentation as the client had reques
 (We can probably remove this heading and the one below as we have a seperate folder for these.)
 
 ### **Screenshots of Trello Board**
+
+A directory containing screenshots of our Trello board can be found in this repository. It contains daily screenshots from the start of the day to the end of the day throughout this project.
+
