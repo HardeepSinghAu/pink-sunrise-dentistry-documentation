@@ -125,17 +125,20 @@ Netlify
 ### **Application Architecture Diagram**
 ***
 
+
 > "Teamwork makes the dreamwork"
 
+### **Scrums and Sprints**
 When we set about this project, we had a very clear idea of the features this project should entail, a booking system for the client who is a Dentist currently with a very small online presence. The app needed to include features that allowed Users to login and book an appointment online effortlessly. Additionally, we needed to include a contact form so that they could contact the Clinic and ask questions about more complex treatments. 
 
-We started off with a Scrum where we discussed the features of the projects and what we would need to create overall. We also discussed the tech stack we preferred to use and how it would be more beneficial to the project over any other tech stack either of us were familiar with.
+We started off with a Scrum where we discussed the features of the projects and what we would need to create overall. We also discussed the tech stack we preferred to use and how it would be more beneficial to the project over any other tech stack either of us were familiar with. We decided to hold a daily stand-up to ensure we both had a plan of attack for the day and were on same page. At the end of each week we also conducted sprint demo to share our achievements and then moved on to sprint planning to determin which tasks to execute in the upcoming sprint.We also did a review of the sprint and noted these down on a weekly Trello card of key tasks that we completed that sprint, tasks that went well in the sprint, things that hadn't gone well.
 
-We created a Trello Board and broke the project down into smaller tasks and listed them as cards under two backlog categories, documentation and coding. We then created a further two columns titled Leith and Hardeep, where we would place tasks being managed by the respective team member. Lastly we had a column for completed tasks to move the cards into once those tasks had been fully completed. We chose to use Trello as it was a tool we were both familar with and felt it would be a good way to delegate the tasks, visually keep track of our own tasks, see what our team mate was working on as well as keep track of the tasks listed in the two backlogs.
+### **Trello Board for Project Management and task Delegation**
+We created a Trello Board and broke the project down into smaller tasks and listed them as cards under two backlog categories, documentation and coding. We then created a further two columns titled Leith and Hardeep, where we would place tasks being managed by the respective team member. Lastly we had weekly columns for completed tasks to move the cards into once those tasks had been fully completed per sprint. 
+
+We chose to use Trello as it was a tool we were both familar with and felt it would be a good way to delegate the tasks, visually keep track of our own tasks, see what our team mate was working on as well as keep track of the tasks listed in the two backlogs.
 
 Our live Trello Board can be found [here](https://trello.com/b/GTJg7qxU/dentist-booking-system-website) as well as a directory of daily screenshots.
-
-We used Discord to communicate with each other regularly, here we discussed the tasks we were working on as well as ask one another queries and clarifications to ensire we were on the same page
 
 | Sprint Number | Week | Focus | Deadlines|
 |---|---|---|---|
@@ -146,6 +149,16 @@ We used Discord to communicate with each other regularly, here we discussed the 
 | **5** | 14/10/2022 to 20/11/2022 | z | |
 | **6** | 21/10/2022 to 23/11/2022 | z | Project due to be completed in full by the 23rd of November |
 
+### **Discord**
+As we have collaborated over the course, we are already familiar with each others working style and dedication to the project. As we already use discord as a primary mean of communication with one another we decided to continue using discord to discuss and work on the project. We used Discord to communicate with each other regularly throughout the day. Here we discussed the tasks we were working on as well as ask one another queries and clarifications to ensure we were on the same page.
+
+We decided that instead of delegating tasks to one another we would volunteer for tasks that we felt confident in being able to complete successfully. Leith took on the mammoth and key task of getting the rails backend up and running as well as organising the ERD. He felt confident in the former task as he had already put this into practice recently. He also felt it was important for him to map out the ERD so that he had a good understanding of the tables he needed to create for the backend. The tables we would use and relationships between them, were discussed at length between us before Leith used [Lucid Chart](https://www.lucidchart.com/pages/) to create an ERD.
+
+I (Hardeep) decided to make a dent in the documentation as the client had requested this at an earlier date and having a good understanding of markdown and the requirments for the document I decided to intilly focus on that(current document). As I had recently taken part in a hackthon using React and enjoyed creating components I also decided to intialise a repo connected to a directory with the framework for the front-end.
+
+#AS THE WEEKS GO ON WE SHOULD DISCUSS MORE TASKS WE COMPLETED AND WHY EACH TEAM MEMBER TOOK THAT TASK....because reasons
 ### **Wireframes for multiple standard screen sizes**
+
 (We can probably remove this heading and the one below as we have a seperate folder for these.)
+
 ### **Screenshots of Trello Board**
