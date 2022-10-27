@@ -5,18 +5,16 @@
 Useful links:
 - [Documentation](https://github.com/HardeepSinghAu/pink-sunrise-dentistry-documentation)
 - [Pink Sunrise Dentistry Front-end repository](https://github.com/HardeepSinghAu/pink-sunrise-dentistry)
-- [Pink Sunrise Dentistry Back-end repository]()
+- [Pink Sunrise Dentistry Back-end repository](https://github.com/LeithPrice/pink-sunrise-dentistry-api)
+- [www.pink-sunrise-dentistry.com]()
 
 ### **Purpose**
 
-The client, wanted an app that would allow patients to book their appointments as well as allow the Dentist to register his availability through an admin dashboard.
+The client, requested an app that would allow current and new patients to book their appointments as well as allow the Dentist (from here referred to as the Doctor)to register his availability through a dashboard. The client also wamted the Administrator to have special permissions to create users and to create Doctor Users who would then be able to update their schedules on the app.
 
-The main purpose of this app being...
-Have an online presence and reach a wider audience through a professional and secure app.
-Increase patient bookings and boost patient numbers.
-Streamline the booking process, giving staff more time to focus on other tasks and patients more control over their schedules.
-Provide patients with detailed information regarding the Clinics services.
-Convey and sell the clinics modern and family friendly services.
+The main purpose of this app is to promote Pink Sunrise Dentistrys online presence and reach a wider audience through a professional and secure app. Secondly and just as essentially, increase patient bookings and boost patient numbers by providing an online booking portal. This will streamline the booking process, giving staff more time to focus on other tasks and patients more control over their schedules.
+
+The client also needed the app to convey detailed information regarding the Clinics services such as treatments and sell the clinics modern and family friendly ethos.
 ***
 ### **Target Audience**
 
@@ -24,21 +22,26 @@ The app for Pink Sunrise Dentistry is targetting at adults aged 18 and above, to
 ***
 ### **Functionality & Features**
 
-The app will have two types of users, patients and Admin. 
-- All users, Patient or Admin will habe the ability to login in using the same login page.
-- Users will be able to register to create a patient account only.
+The app will have three types of users, Patients, Doctor and Admin. 
+- All users, Patient, Doctor and Admin, will habe the ability to login in using the same login page.
+- Patient users will be able to register to create a patient account only.
 
-When a Patient User is logged in they can do the following operations:
+When a Patient User is logged in they can complete the following operations:
 - Use the booking system to search for and select an appointment date and time.
 - Look up their appointment and billing history.
 - Click on a payment button linking them, the patient to payment options.
 - Patient Users can only view their own history.
 - Delete or update their appointment bookings.
 
-When an Adminstrator logs in they can do the following operations:
-- View an Admin dahsboard to allow them to list the availibility of the Dentist.
-- Bookings filled.
-- Summary of Booking totals
+When an Adminstrator logs in they can complete the following operations:
+- View an Admin dahsboard to allow them to list the availibility of the Doctor.
+- Create other Users, Patients or Doctors, therefore allowing Doctor Users to have the required permissions to create appointments by selecting their availibility.
+- View Bookings filled.
+- View a summary of Booking totals.
+
+When a Doctor User is logged in they can complete the following operations:
+- Update their availability, therefore creating available appointments for the Patient User to select.
+- View booked appointments.
 
 
 ***
@@ -61,19 +64,11 @@ When an Adminstrator logs in they can do the following operations:
 
 7. As a small business owner, I can't afford the time to wait on hold for 20 mins to speak to the receptionist to do something as simple as lock in an appointment. In this day and age, this should really be an effortless online process.
 
-8. 
+8. As a University student, I am always on the go, busy with uni, work and catching up with friends. I dont want to wait on the phone to book an appointment. I should be able to see all the times available online and be select what fits around my plans.
 
-9.
+9. I have just turned 18 and am taking charge of booking my own medical appointments. I'm surprised the clinic isn't aready online and is quite a turn off using it as its inconvenient. However, I am familiar with the clinic and would prefer to use them if they can start taking online appointments. In this day and age, everything should be streamlined online.
 
-10.
-
-11.
-
-12.
-
-13.
-
-14.
+10. I am a Dentist who works at the clinic, it would be good to have a central system we can all access and update easily. Rather than have to tell the Adminstrator of my availibility on a weekly basis, I should be able to login in easily and securely to update the days I am in the clinic and also view my bookings for the day or week ahead.
 
 **Follow up market research**
 
@@ -143,10 +138,10 @@ Our live Trello Board can be found [here](https://trello.com/b/GTJg7qxU/dentist-
 | Sprint Number | Week | Focus | Deadlines|
 |---|---|---|---|
 | **1** | 17/10/2022 to 23/10/2022 | Documentation, wireframes, ERD and prepare the 3 framework for 2 of the 3 repos we would need to use (documntation and front-end framework), research on how to structure calender UI| |
-| **2** | 24/10/2022 to 30/10/2022 | x | |
-| **3** | 31/10/2022 to 06/11/2022 | y | Documentation due to client |
-| **4** | 07/10/2022 to 13/11/2022 | z | |
-| **5** | 14/10/2022 to 20/11/2022 | z | |
+| **2** | 24/10/2022 to 30/10/2022 | Get Rails back-end up and running, ensure documentation is as complete as it can be, dataflow and architecture diagram completed. | |
+| **3** | 31/10/2022 to 06/11/2022 | Start working on presentation. Ensure documentation is complete and ready to go | Documentation due to client |
+| **4** | 07/10/2022 to 13/11/2022 | Work on the Front-end needs to begin if it hasn't already, this will be the focus of the week, styling. | |
+| **5** | 14/10/2022 to 20/11/2022 | TBC - addition of any sprinkles if all key tasks, functions and features have been implemented. | |
 | **6** | 21/10/2022 to 23/11/2022 | z | Project due to be completed in full by the 23rd of November |
 
 ### **Discord**
@@ -162,3 +157,6 @@ I (Hardeep) decided to make a dent in the documentation as the client had reques
 (We can probably remove this heading and the one below as we have a seperate folder for these.)
 
 ### **Screenshots of Trello Board**
+
+A directory containing screenshots of our Trello board can be found in this repository. It contains daily screenshots from the start of the day to the end of the day throughout this project.
+
