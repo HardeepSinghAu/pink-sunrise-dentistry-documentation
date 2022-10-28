@@ -1,4 +1,4 @@
-# # **Pink Sunrise Dentistry Documentation**
+# **Pink Sunrise Dentistry Documentation**
 
 ## **By Leith Price and Hardeep Singh**
 
@@ -159,7 +159,9 @@ We created a Trello Board and broke the project down into smaller tasks and list
 
 We chose to use Trello as it was a tool we were both familar with and felt it would be a good way to delegate the tasks, visually keep track of our own tasks, see what our team mate was working on as well as keep track of the tasks listed in the two backlogs. Overall a useful tool for task delegation and visual communication.
 
-Our live Trello Board can be found [here](https://trello.com/b/GTJg7qxU/dentist-booking-system-website) as well as a directory of daily screenshots included in this repository.
+Our live Trello Board can be found [here](https://trello.com/b/GTJg7qxU/dentist-booking-system-website) as well as a directory of daily screenshots included in this repository and the screenshot below.
+
+![](Trello/2022-10-26am.png)
 
 | Sprint Number | Week | Focus | Deadlines|
 |---|---|---|---|
