@@ -185,3 +185,8 @@ Leith also completed the Application Architecture Diagram and the Dataflow Diagr
 #AS THE WEEKS GO ON WE SHOULD DISCUSS MORE TASKS WE COMPLETED AND WHY EACH TEAM MEMBER TOOK THAT TASK....because reasons
 
 
+### Testing
+
+![](Docs/test1.png)
+![](Docs/test2.png)
+![](Docs/test3.png)
