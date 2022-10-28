@@ -62,10 +62,6 @@ When a Doctor User is logged in they can complete the following operations:
 ![](Wireframes/bookingdv.png)
 
 ***
-
-
-
-
 ### **User Stories**
 
 “As a [persona], I [want to], [so that].”
@@ -141,8 +137,10 @@ When a Doctor User is logged in they can complete the following operations:
 - VS Code
 ***
 ### **Dataflow Diagram**
+![](Docs/PSD_Dataflow_Diagram.png)
 ***
 ### **Application Architecture Diagram**
+![](Docs/PSD_Architecture_Diagram.png)
 ***
 
 > "Teamwork makes the dreamwork"
@@ -183,8 +181,4 @@ Leith also completed the Application Architecture Diagram and the Dataflow Diagr
 
 #AS THE WEEKS GO ON WE SHOULD DISCUSS MORE TASKS WE COMPLETED AND WHY EACH TEAM MEMBER TOOK THAT TASK....because reasons
 
-
-### **Screenshots of Trello Board**
-
-A directory containing screenshots of our Trello board can be found in this repository. It contains daily screenshots from the start of the day to the end of the day throughout this project.
 
