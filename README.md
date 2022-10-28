@@ -46,11 +46,26 @@ When a Doctor User is logged in they can complete the following operations:
 
 ***
 ### **Wireframes for multiple standard screen sizes**
+<br></br>
 
-!(Homepage)[Appointment History - desktop view.png]
-()[]
-()[]
-()[]
+
+![](/Wireframes/homedv.png)
+![](/Wireframes/homemv.png)
+![](Wireframes/historydv.png)
+![](Wireframes/bookingmv.png)
+![](Wireframes/contactdv.png)
+![](Wireframes/contactmv.png )
+![](Wireframes/bookingdv2.png)
+![](Wireframes/bookingpatientmv.png)
+
+![](Wireframes/bookingdv2.png)
+![](Wireframes/bookingdv.png)
+
+***
+
+
+
+
 ### **User Stories**
 
 “As a [persona], I [want to], [so that].”
