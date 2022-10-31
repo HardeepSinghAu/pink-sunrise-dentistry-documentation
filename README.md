@@ -142,8 +142,9 @@ The Dataflow diagram below is mapping out the flow of data within the applicatio
 ![](Docs/PSD_Architecture_Diagram.png)
 ***
 
-> "Teamwork makes the dreamwork"
-
+<br></br>
+## **Teamwork**
+> "Team work makes the dream work"
 ### **Scrums & Sprints**
 
 When we set about this project, we had a very clear idea of the features this project should entail, a booking system for the client who is a Dentist currently with a very small online presence. The app needed to include features that allowed Patient Users to login and book an appointment online effortlessly. Additionally, we needed to include a contact form so that they could contact the Clinic and ask questions about more complex treatments.
@@ -174,9 +175,9 @@ We are  familiar with each other's working style and dedication to the project. 
 
 We decided that instead of delegating tasks to one another we would volunteer for tasks that we felt confident in being able to complete successfully. Leith took on the mammoth and key task of getting the rails backend up and running, a task he felt confident in as he had already put this into practice. He also felt it was important for him to map out the ERD so that he had a good understanding of the tables he needed to create for the backend. The tables we would use and relationships between them, were discussed at length between us before Leith used [Lucid Chart](https://www.lucidchart.com/pages/) to create an ERD.
 
-I (Hardeep) decided to make a dent in the documentation as the client had requested this at an earlier date and having a good understanding of markdown and the requirements for the document, I decided to intially focus on that (current document). Furthermore, I had recently taken part in a hackathon using React and enjoyed creating components I also decided to initialise a repo connected to a directory with the framework for the front-end and create a few simple Components such as the a Navbar and the Footer and crafting the start of the pages we will need such a homepage and About Us page.
+I (Hardeep) decided to make a dent in the documentation as the client had requested this at an earlier date and having a good understanding of markdown and the requirements for the document, I decided to intially focus on that (current document). Furthermore, I had recently taken part in a hackathon using React and enjoyed creating components I also decided to initialise a repo connected to a directory with the framework for the front-end and create a few simple Components such as the a Navbar and the Footer and crafting the start of the pages we will need such a homepage, About Us, success and cancellation page.
 
-Leith also completed the Application Architecture Diagram and the Dataflow Diagram as he had a subscription to Lucid Chart and a better understanding of the flow of Data.
+Leith also completed the Application Architecture Diagram and the Dataflow Diagram as he had a subscription to Lucid Chart and a solid understanding of the flow of Data. The continues on to create a presentation for the client using [canva.com](https://www.canva.com/) as this is a tool I enjoy using and am very familiar with and Leith worked on the authentication as he had his own fantastic documentation for the topic. 
 
-#AS THE WEEKS GO ON WE SHOULD DISCUSS MORE TASKS WE COMPLETED AND WHY EACH TEAM MEMBER TOOK THAT TASK....because reasons
+
 
