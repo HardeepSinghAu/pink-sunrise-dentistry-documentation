@@ -49,22 +49,20 @@ When a Doctor User is logged in they can complete the following operations:
 <br></br>
 
 
-![](/Wireframes/homedv.png)
-![](/Wireframes/homemv.png)
-![](Wireframes/historydv.png)
-![](Wireframes/bookingmv.png)
-![](Wireframes/contactdv.png)
-![](Wireframes/contactmv.png )
-![](Wireframes/bookingdv2.png)
-![](Wireframes/bookingpatientmv.png)
+![](/Docs//Wireframes/homedv.png)
+![](/Docs//Wireframes/homemv.png)
+![](/Docs/Wireframes/historydv.png)
+![](/Docs/Wireframes/bookingmv.png)
+![](/Docs/Wireframes/contactdv.png)
+![](/Docs/Wireframes/contactmv.png )
+![](/Docs/Wireframes/bookingdv2.png)
+![](/Docs/Wireframes/bookingpatientmv.png)
 
-![](Wireframes/bookingdv2.png)
-![](Wireframes/bookingdv.png)
+![](/Docs/Wireframes/bookingdv2.png)
+![](/Docs/Wireframes/bookingdv.png)
 
 ***
 ### **User Stories**
-
-“As a [persona], I [want to], [so that].”
 
 1. As a busy person, I am always on the go. I don't want to call my dentist and have to wait on hold to talk to someone to book. I want to be able to go online and book at the click of a button and get on with my day.
 
@@ -130,9 +128,7 @@ When a Doctor User is logged in they can complete the following operations:
 
 **Utilities** 
 - Balsamiq
-- [Lucid Chart](https://www.lucidchart.com/pages/)
-
-**DevOps:**
+- Lucid Chart
 - Git and Github
 - VS Code
 ***
@@ -162,13 +158,13 @@ We chose to use Trello as it was a tool we were both familiar with and felt it w
 
 Our live Trello Board can be found [here](https://trello.com/b/GTJg7qxU/dentist-booking-system-website) as well as a directory of daily screenshots included in this repository and the screenshot below.
 
-![](Trello/2022-10-26am.png)
+![](/Docs/Trello/2022-10-26am.png)
 
 | Sprint Number | Week | Focus | Deadlines|
 |---|---|---|---|
 | **1** | 17/10/2022 to 23/10/2022 | Documentation, wireframes, ERD and prepare the 3 framework for 2 of the 3 repos we would need to use (documentation and front-end framework), research on how to structure calendar UI| |
 | **2** | 24/10/2022 to 30/10/2022 | Rails back-end up. Create Login/Register and Logout function. RESTful client testing. Ensure documentation is as complete as it can be, dataflow and architecture diagram completed. Start on React components. Deploy! | |
-| **3** | 31/10/2022 to 06/11/2022 | Continue Testing. Start working on a presentation. Ensure documentation is complete and ready to go. | Documentation due to client 06/11/2022 |
+| **3** | 31/10/2022 to 06/11/2022 | Continue Testing. Start working on a presentation. Ensure documentation is complete and ready to go. Create booking component and back end. | Documentation due to client 06/11/2022 |
 | **4** | 07/10/2022 to 13/11/2022 | Testing is key this week and should be completed (90% test coverage is required by the client). Work on the Front-end needs to be completed if it hasn't already, this will be the focus of the week. Styling. | |
 | **5** | 14/10/2022 to 20/11/2022 | Ask the client to test the finished app. Addition of any sprinkles if all key tasks, functions and features have been implemented. | |
 | **6** | 21/10/2022 to 23/11/2022 | Complete project. | Project due to be completed in full by the 23/11/2022 |
@@ -184,9 +180,3 @@ Leith also completed the Application Architecture Diagram and the Dataflow Diagr
 
 #AS THE WEEKS GO ON WE SHOULD DISCUSS MORE TASKS WE COMPLETED AND WHY EACH TEAM MEMBER TOOK THAT TASK....because reasons
 
-
-### Testing
-
-![](Docs/test1.png)
-![](Docs/test2.png)
-![](Docs/test3.png)
