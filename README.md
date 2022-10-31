@@ -64,13 +64,13 @@ When a Doctor User is logged in they can complete the following operations:
 ***
 ### **User Stories**
 
-1. As a busy person, I am always on the go. I don't want to call my dentist and have to wait on hold to talk to someone to book. I want to be able to go online and book at the click of a button and get on with my day.
+1. As a busy and high-powered Executive, I am always on the go. I don't want to call my dentist and have to wait on hold to talk to someone to book. I want to be able to go online and book at the click of a button and get on with my day.
 
-2. As the Office Manager, I have a lot of admin, booking fees to process and patients to manage. Sometimes the phone is ringing off the hook with people who want to book an appointment. It would take a load off my plate to be able to have patients book themselves in so that I can get on with other tasks, such as taking care of the patients in the clinic.
+2. As the Office Manager, I have a lot of admin, booking fees to process and patients to manage. I need less tasks. Sometimes the phone is ringing off the hook with people who want to book an appointment. It would take a load off my plate to be able to have patients book themselves in so that I can get on with taking care of the patients in the clinic and managing the office.
 
-3. As someone who has a hectic schedule, I like to be able to see which appointments are available and book in the one that best suits my schedule. Being able to book my dentist appointment online would definitely help me in doing that.
+3. As single parent, who has a hectic schedule, I like to be able to see which appointments are available and book in the one that best suits my schedule. Being able to book my dentist appointment online would definitely help me in doing that.
 
-4. I'm a very anxious person and dislike getting on the phone to make appointments. Being able to do this online without having to interact with another person will help me massively with being able to access a dentist and keeping on top of my dental health. Now if only I could do that without interacting with the dentist!
+4. I'm a very anxious young adult and dislike getting on the phone to make appointments. Being able to do this online without having to interact with another person will help me massively with being able to access a dentist and keeping on top of my dental health. Now if only I could do that without interacting with the dentist!
 
 5. As a Mum of three, I regularly book the Dental appointments for my family and I. It would be handy to be able to access a history of treatments so that I can keep track of when a family member last visited so I can book them in after 6 month intervals.
 
@@ -84,19 +84,15 @@ When a Doctor User is logged in they can complete the following operations:
 
 10. I am a Dentist who works at the clinic, it would be good to have a central system we can all access and update easily. Rather than have to tell the Administrator of my availability on a weekly basis, I should be able to login easily and securely to update the days I am in the clinic and also view my bookings for the day or week ahead.
 
-**Follow up market Research**
+**Feedback from consultation with Client and Users**
 
-1. As a Patient using this website, it would be handy to receive an email or text confirming the appointment to know that yes it has indeed been booked.
+1. As a Patient using this website, it would be ideal to receive an email or text confirming the appointment to know that yes it has indeed been booked.
 
 2. As the Administrator, it would be handy to have a feature which automatically sends the Patients an email or text reminder, the day before their appointment. This way I wouldn't have to call around to remind people, which is a task I can't always complete, so sometimes people don't remember their appointments and miss them.
 
 3. As a Dentist, I am enjoying using this app. An additional feature could be an inclusion of the treatment the patient is coming in for but this isn't necessary as our Medical Database holds this information.  
 
-**Feedback from consultation with the Client**
-
-1. As the administrator, it would be nice to be able to add an update alert of news at the clinic, such as new treatments we may have started offering or any discounted treatments and other news.
-
-2.
+4. As the administrator, it would be nice to be able to add an update alert of news at the clinic, such as new treatments we may have started offering or any discounted treatments and other news.
 
 ***
 ### **Tech Stack**
