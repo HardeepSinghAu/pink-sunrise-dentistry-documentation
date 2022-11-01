@@ -155,9 +155,20 @@ We created a Trello Board and broke the project down into smaller tasks and list
 
 We chose to use Trello as it was a tool we were both familiar with and felt it would be a good way to delegate the tasks, visually keep track of our own tasks, see what our team mate was working on as well as keep track of the tasks listed in the two backlogs. Overall a useful tool for task delegation and visual communication.
 
-Our live Trello Board can be found [here](https://trello.com/b/GTJg7qxU/dentist-booking-system-website) as well as a directory of daily screenshots included in this repository and the screenshot below.
+Our live Trello Board can be found [here](https://trello.com/b/GTJg7qxU/dentist-booking-system-website) as well as a directory of daily screenshots included in this repository and displayed below.
 
-![](/Docs/Trello/2022-10-26am.png)
+![](Docs/Trello/2022-10-19am.png)
+![](Docs/Trello/2022-10-20am.png)
+![](Docs/Trello/2022-10-21am.png)
+![](/Docs/Trello/2022-10-22am.png)
+![](Docs/Trello/2022-10-22pm.png)
+![](Docs/Trello/2022-10-23pm.png)
+![](Docs/Trello/2022-10-24am.png)
+![](Docs/Trello/2022-10-25am.png)
+![](Docs/Trello/2022-10-26am.png)
+![](Docs/Trello/2022-10-27pm.png)
+![](Docs/Trello/2022-10-29.png)
+![](Docs/Trello/2022-10-31.png)
 
 | Sprint Number | Week | Focus | Deadlines|
 |---|---|---|---|
