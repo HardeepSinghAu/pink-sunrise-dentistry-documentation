@@ -7,7 +7,7 @@ Useful links:
 - [Pink Sunrise Dentistry Front-end repository](https://github.com/HardeepSinghAu/pink-sunrise-dentistry)
 - [Pink Sunrise Dentistry Back-end repository](https://github.com/LeithPrice/pink-sunrise-dentistry-api)
 - [Pink-sunrise-dentistry.netlify.app](https://pink-sunrise-dentistry.netlify.app/)
-- [Trello Board](https://trello.com/b/GTJg7qxU/dentist-booking-system-website) as well as a directory of daily screenshots.
+- [Trello Board](https://trello.com/b/GTJg7qxU/dentist-booking-system-website)
 
 ### **Purpose**
 
@@ -45,7 +45,7 @@ When a Doctor User is logged in they can complete the following operations:
 - View booked appointments.
 
 ***
-### **Wireframes for multiple standard screen sizes**
+### **Wireframes for Desktop and Mobile View**
 <br></br>
 
 
