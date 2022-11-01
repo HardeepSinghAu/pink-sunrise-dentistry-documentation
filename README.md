@@ -70,9 +70,9 @@ When a Doctor User is logged in they can complete the following operations:
 
 3. As single parent, who has a hectic schedule, I like to be able to see which appointments are available and book in the one that best suits my schedule. Being able to book my dentist appointment online would definitely help me in doing that.
 
-4. I'm a very anxious young adult and dislike getting on the phone to make appointments. Being able to do this online without having to interact with another person will help me massively with being able to access a dentist and keeping on top of my dental health. Now if only I could do that without interacting with the dentist!
+4. I'm a very anxious young adult and dislike getting on the phone to make appointments. Being able to do this online without having to interact with another person will help me massively. I would also like a contact form so I can write in to ask for more details on treatments and procedures.
 
-5. As a Mum of three, I regularly book the Dental appointments for my family and I. It would be handy to be able to access a history of treatments so that I can keep track of when a family member last visited so I can book them in after 6 month intervals.
+5. As a Mum of three, I regularly book the Dental appointments for my family and I. It would be handy to be able to access a history of treatments so that I can keep track of when a family member last visited so I can book them in after 6 month intervals. In terms of bookings, it would be nice to be able to book online to fit my schedule and be able to see where the dentist has 3 appointments available in a row, this way I can bring in all 3 of the kids in one go!
 
 6. I have a lot of dental work done due to a health issue, sometimes it's a challenge to keep track of it all with my other medical expenses and needs. It would be invaluable to me, to be able to see my treatment history and what is owed so that I can budget and plan to pay back the balance in due course.
 
