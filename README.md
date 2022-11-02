@@ -162,7 +162,7 @@ Our live Trello Board can be found [here](https://trello.com/b/GTJg7qxU/dentist-
 ![](Docs/Trello/2022-10-19am.png)
 ![](Docs/Trello/2022-10-20am.png)
 ![](Docs/Trello/2022-10-21am.png)
-![](/Docs/Trello/2022-10-22am.png)
+![](Docs/Trello/2022-10-22am.png)
 ![](Docs/Trello/2022-10-22pm.png)
 ![](Docs/Trello/2022-10-23pm.png)
 ![](Docs/Trello/2022-10-24am.png)
