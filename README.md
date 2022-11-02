@@ -141,7 +141,7 @@ The Dataflow diagram below is mapping out the flow of data within the applicatio
 ![](Docs/PSD_Architecture_Diagram.png)
 ***
 ### **Entity Relationship Diagram**
-![](Docs/Pink-Sunrise-Dentisty-ERD.png)
+![](Docs/pink_sunrise_dentistry_ERD.png)
 
 <br></br>
 ## **Teamwork**
