@@ -128,6 +128,9 @@ When a Doctor User is logged in they can complete the following operations:
 - Git and Github
 - VS Code
 ***
+### **Site Map**
+![](Docs/PSD_Sitemap.png)
+***
 ### **Dataflow Diagram**
 
 The Dataflow diagram below is mapping out the flow of data within the application.
