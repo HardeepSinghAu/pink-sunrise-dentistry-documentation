@@ -16,11 +16,11 @@ The client requested an app that would allow current and new patients to book th
 The main purpose of this app is to promote Pink Sunrise Dentistry's online presence and reach a wider audience through a professional and secure app. Secondly and just as essentially, increase patient bookings and boost patient numbers by providing an online booking portal. This will streamline the booking process, giving staff more time to focus on other tasks and patients more control over their schedules.
 
 The client also needed the app to convey detailed information regarding the Clinics services such as treatments and sell the clinics modern and family friendly ethos.
-***
+
 ### **Target Audience**
 
 The app for Pink Sunrise Dentistry is targeted at adults aged 18 and above, to book appointments to meet their dental needs. Parents and guardians are also able to use the app to book appointments for their children.
-***
+
 ### **Functionality & Features**
 
 The app will have three types of users, Patients, Doctor and Admin.
@@ -44,7 +44,7 @@ When a Doctor User is logged in they can complete the following operations:
 - Update their availability, therefore creating available appointments for the Patient User to select.
 - View booked appointments.
 
-***
+
 ### **Wireframes for Desktop and Mobile View**
 <br></br>
 
@@ -61,7 +61,7 @@ When a Doctor User is logged in they can complete the following operations:
 ![](/Docs/Wireframes/bookingdv2.png)
 ![](/Docs/Wireframes/bookingdv.png)
 
-***
+
 ### **User Stories**
 
 1. As a busy and high-powered Executive, I am always on the go. I don't want to call my dentist and have to wait on hold to talk to someone to book. I want to be able to go online and book at the click of a button and get on with my day.
@@ -94,7 +94,7 @@ When a Doctor User is logged in they can complete the following operations:
 
 4. As the administrator, it would be nice to be able to add an update alert of news at the clinic, such as new treatments we may have started offering or any discounted treatments and other news.
 
-***
+
 ### **Tech Stack**
 
 **Front-end**
@@ -127,19 +127,19 @@ When a Doctor User is logged in they can complete the following operations:
 - Lucid Chart
 - Git and Github
 - VS Code
-***
+
 ### **Site Map**
 ![](Docs/PSD_Sitemap.png)
-***
+
 ### **Dataflow Diagram**
 
 The Dataflow diagram below is mapping out the flow of data within the application.
 
 ![](Docs/PSD_Dataflow_Diagram.png)
-***
+
 ### **Application Architecture Diagram**
 ![](Docs/PSD_Architecture_Diagram.png)
-***
+
 ### **Entity Relationship Diagram**
 ![](Docs/pink_sunrise_dentistry_ERD.png)
 
@@ -172,6 +172,8 @@ Our live Trello Board can be found [here](https://trello.com/b/GTJg7qxU/dentist-
 ![](Docs/Trello/2022-10-27pm.png)
 ![](Docs/Trello/2022-10-29.png)
 ![](Docs/Trello/2022-10-31.png)
+![](Docs/Trello/2022-11-01.png)
+![](Docs/Trello/2022-11-02.png)
 
 | Sprint Number | Week | Focus | Deadlines|
 |---|---|---|---|
