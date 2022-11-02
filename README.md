@@ -19,7 +19,7 @@ The client also needed the app to convey detailed information regarding the Clin
 ***
 ### **Target Audience**
 
-The app for Pink Sunrise Dentistry is targeted at adults aged 18 and above, to book appointment to meet their dental needs. Parents and guardians are also able to use the app to book appointments for their children.
+The app for Pink Sunrise Dentistry is targeted at adults aged 18 and above, to book appointments to meet their dental needs. Parents and guardians are also able to use the app to book appointments for their children.
 ***
 ### **Functionality & Features**
 
@@ -68,7 +68,7 @@ When a Doctor User is logged in they can complete the following operations:
 
 2. As the Office Manager, I have a lot of admin, booking fees to process and patients to manage. I need less tasks. Sometimes the phone is ringing off the hook with people who want to book an appointment. It would take a load off my plate to be able to have patients book themselves in so that I can get on with taking care of the patients in the clinic and managing the office.
 
-3. As single parent, who has a hectic schedule, I like to be able to see which appointments are available and book in the one that best suits my schedule. Being able to book my dentist appointment online would definitely help me in doing that.
+3. As a single parent, who has a hectic schedule, I like to be able to see which appointments are available and book in the one that best suits my schedule. Being able to book my dentist appointment online would definitely help me in doing that.
 
 4. I'm a very anxious young adult and dislike getting on the phone to make appointments. Being able to do this online without having to interact with another person will help me massively. I would also like a contact form so I can write in to ask for more details on treatments and procedures.
 
@@ -145,7 +145,7 @@ The Dataflow diagram below is mapping out the flow of data within the applicatio
 
 <br></br>
 ## **Teamwork**
-> "Team work makes the dream work"
+
 ### **Scrums & Sprints**
 
 When we set about this project, we had a very clear idea of the features this project should entail, a booking system for the client who is a Dentist currently with a very small online presence. The app needed to include features that allowed Patient Users to login and book an appointment online effortlessly. Additionally, we needed to include a contact form so that they could contact the Clinic and ask questions about more complex treatments.
@@ -183,13 +183,12 @@ Our live Trello Board can be found [here](https://trello.com/b/GTJg7qxU/dentist-
 | **6** | 21/10/2022 to 23/11/2022 | Complete project. | Project due to be completed in full by the 23/11/2022 |
 
 ### **Discord**
-We are  familiar with each other's working style and dedication to the project. As we both use discord as a primary means of communication with one another we decided to continue using discord to discuss and work on the project. We used Discord to communicate with each other regularly throughout the day. Here we discussed the tasks we were working on, ask for assistance, as well as ask one another queries and clarifications to ensure we were on the same page.
+We are  familiar with each other's working style and dedication to the project. As we both use discord as a primary means of communication with one another we decided to continue using discord to discuss and work on the project. We used Discord to communicate with each other regularly throughout the day. Here we discussed the tasks we were working on, asked for assistance, as well as ask one another queries and clarifications to ensure we were on the same page.
 
 We decided that instead of delegating tasks to one another we would volunteer for tasks that we felt confident in being able to complete successfully. Leith took on the mammoth and key task of getting the rails backend up and running, a task he felt confident in as he had already put this into practice. He also felt it was important for him to map out the ERD so that he had a good understanding of the tables he needed to create for the backend. The tables we would use and relationships between them, were discussed at length between us before Leith used [Lucid Chart](https://www.lucidchart.com/pages/) to create an ERD.
 
-I (Hardeep) decided to make a dent in the documentation as the client had requested this at an earlier date and having a good understanding of markdown and the requirements for the document, I decided to intially focus on that (current document). Furthermore, I had recently taken part in a hackathon using React and enjoyed creating components I also decided to initialise a repo connected to a directory with the framework for the front-end and create a few simple Components such as the a Navbar and the Footer and crafting the start of the pages we will need such a homepage, About Us, success and cancellation page.
+I (Hardeep) decided to make a dent in the documentation as the client had requested this at an earlier date and having a good understanding of markdown and the requirements for the document, I decided to initially focus on that (current document). Furthermore, I had recently taken part in a hackathon using React and enjoyed creating components I also decided to initialise a repo connected to a directory with the framework for the front-end and create a few simple Components such as the a Navbar and the Footer and crafting the start of the pages we will need such a homepage, About Us, success and cancellation page.
 
-Leith also completed the Application Architecture Diagram and the Dataflow Diagram as he had a subscription to Lucid Chart and a solid understanding of the flow of Data. The continues on to create a presentation for the client using [canva.com](https://www.canva.com/) as this is a tool I enjoy using and am very familiar with and Leith worked on the authentication as he had his own fantastic documentation for the topic. 
+Leith also completed the Application Architecture Diagram and the Dataflow Diagram as he had a subscription to Lucid Chart and a solid understanding of the flow of Data. I continued on to create a presentation for the client using [canva.com](https://www.canva.com/) as this is a tool I enjoy using and am very familiar with and Leith worked on the authentication as he had his own fantastic documentation for the topic. 
 
-
-
+> "Team work makes the dream work"
