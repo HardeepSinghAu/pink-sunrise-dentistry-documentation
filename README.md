@@ -49,17 +49,16 @@ When a Doctor User is logged in they can complete the following operations:
 <br></br>
 
 
-![](/Docs//Wireframes/homedv.png)
-![](/Docs//Wireframes/homemv.png)
-![](/Docs/Wireframes/historydv.png)
-![](/Docs/Wireframes/bookingmv.png)
-![](/Docs/Wireframes/contactdv.png)
-![](/Docs/Wireframes/contactmv.png )
-![](/Docs/Wireframes/bookingdv2.png)
-![](/Docs/Wireframes/bookingpatientmv.png)
-
-![](/Docs/Wireframes/bookingdv2.png)
-![](/Docs/Wireframes/bookingdv.png)
+![](Docs//Wireframes/homedv.png)
+![](Docs//Wireframes/homemv.png)
+![](Docs/Wireframes/historydv.png)
+![](Docs/Wireframes/bookingmv.png)
+![](Docs/Wireframes/contactdv.png)
+![](Docs/Wireframes/contactmv.png )
+![](Docs/Wireframes/bookingdv2.png)
+![](Docs/Wireframes/bookingpatientmv.png)
+![](Docs/Wireframes/bookingdv2.png)
+![](Docs/Wireframes/bookingdv.png)
 
 
 ### **User Stories**
